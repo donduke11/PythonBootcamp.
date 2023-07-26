@@ -1,0 +1,2 @@
+The difference between a void function and a fruit function is that a void function performs an action but does not return
+a value while a fruit function returns a value, like the math functions.
